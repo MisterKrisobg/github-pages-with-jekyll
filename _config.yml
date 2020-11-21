@@ -1,4 +1,5 @@
 title: A guide to League of Legends
+theme: minima
 author: MisterKrisobg
 email: MyEmail@ThisIs100%Real.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -9,4 +10,4 @@ twitter_username: Nah
 github_username: MisterKrisobg
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: mininma
+
